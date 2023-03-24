@@ -5,3 +5,5 @@ Analyze dataset containing all reported crimes in Chicago from 2000-present day.
 Performed regression analysis modeling correlation between county crime rate and socioeconomic indicators such as poverty rate, per capita income, unemployment etc.
 
 Datasets extracted from Chicago Police Department and Chicago Department of Public Health
+
+By Allen Dong, Melody He, Amber Hu, Elaine Liu
